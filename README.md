@@ -1,11 +1,10 @@
 # About me
+<!-- **GabrielWSchneider/GabrielWSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started: -->
 
-**GabrielWSchneider/GabrielWSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my education.
+- 📖 Scripture of the week: I Thessalonians 4:9–18
+- 🍎 I’m currently working on my education.
 - 🌱 I’m currently learning GitHub and Markdown!  <!-- Should update this line in a few weeks (from 7/17/25) -->
 - 🎮 Ask me about my 3 favorite games of all time!
 - 😄 Pronouns: "They/them" encouraged but not required.
