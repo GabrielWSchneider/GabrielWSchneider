@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started: -->
 
-- 📖 Scripture of the week: I Thessalonians 4:9–18
+- 📖 Scripture of the month: Matthew 22:29–32
 - 🍎 I’m currently working on my education.
-- 🌱 I’m currently learning GitHub and Markdown!  <!-- Should update this line in a few weeks (from 7/17/25) -->
+- 🌱 I’m currently procrastinating GitHub and Markdown!  /j  <!-- This line is overdue for an update (from 7/17/25, now 8/7/25) -->
 - 🎮 Ask me about my 3 favorite games of all time!
-- 😄 Pronouns: "They/them" encouraged but not required.
-- ⚡ Fun fact: "Bufo bufo" is the latin name for the common toad, native to Europe. "Beelzebufo ampinga" is the latin name of one of the largest prehistoric frogs ever discovered.
+- 😄 Pronouns: "They/them" encouraged.
+- ⚡ Fun fact: (from Wikipedia) *Oryctodromeus cubicularis* is the first non-avian dinosaur published that shows evidence of burrowing behavior. 
 
